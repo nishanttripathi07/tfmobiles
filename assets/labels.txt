@@ -1,0 +1,4 @@
+graphiccard
+harddrive
+motherboard
+ram

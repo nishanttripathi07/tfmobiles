@@ -1,0 +1,4 @@
+#Mon Mar 26 22:30:43 IST 2018
+base.0=/home/nishant/Dev/test/venv/poets/android/tfmobile/gradleBuild/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

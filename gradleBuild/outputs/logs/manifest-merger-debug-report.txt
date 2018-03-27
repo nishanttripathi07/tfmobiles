@@ -1,0 +1,155 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:16:1-61:12
+MERGED from [org.tensorflow:tensorflow-android:1.5.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.5.0.aar/3315f0f51b92c9d4927fcbd39444f015/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:17:1-44:12
+MERGED from [com.android.support:design:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/6c610b41897224e90c70e95183666e86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0d33fb5b5940721e79f49ad62ce5897d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/749ebb8e3eda60d08415653f2cb710b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2fb3dc773adf6bf51c4aceac99d92ccd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5c67ae534b1a9f48c8fac7f95da13f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/28fe3f68d1c19fc393e8414b5e5e732f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b439a03fea1b160106a235a4d5a85823/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d201b652252eeaf4481bdeb76d0d8943/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d4cf8652121a389af90be7ed90de18a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/73f6007070fa86f50a75b26f6a885c82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/3efbd21a2b51e29caca77b26293df250/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/133714c453304bad4565d68d8a124aca/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nishant/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00cb404e05a13a2aacf271e972fe937c/AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:17:5-34
+	xmlns:android
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:25:5-44
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:26:5-47
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:26:5-47
+MERGED from [com.android.support:design:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/6c610b41897224e90c70e95183666e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/6c610b41897224e90c70e95183666e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0d33fb5b5940721e79f49ad62ce5897d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/0d33fb5b5940721e79f49ad62ce5897d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/749ebb8e3eda60d08415653f2cb710b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/749ebb8e3eda60d08415653f2cb710b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2fb3dc773adf6bf51c4aceac99d92ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/2fb3dc773adf6bf51c4aceac99d92ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5c67ae534b1a9f48c8fac7f95da13f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/f5c67ae534b1a9f48c8fac7f95da13f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/28fe3f68d1c19fc393e8414b5e5e732f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/28fe3f68d1c19fc393e8414b5e5e732f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b439a03fea1b160106a235a4d5a85823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/b439a03fea1b160106a235a4d5a85823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d201b652252eeaf4481bdeb76d0d8943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/d201b652252eeaf4481bdeb76d0d8943/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d4cf8652121a389af90be7ed90de18a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/d4cf8652121a389af90be7ed90de18a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/73f6007070fa86f50a75b26f6a885c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/73f6007070fa86f50a75b26f6a885c82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/3efbd21a2b51e29caca77b26293df250/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/3efbd21a2b51e29caca77b26293df250/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/133714c453304bad4565d68d8a124aca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/nishant/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/133714c453304bad4565d68d8a124aca/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nishant/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00cb404e05a13a2aacf271e972fe937c/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/nishant/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/00cb404e05a13a2aacf271e972fe937c/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:21:9-38
+	android:minSdkVersion
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:20:9-35
+		MERGED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:20:9-35
+uses-permission#android.permission.CAMERA
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera.ar
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:26:5-86
+	android:required
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:26:61-84
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:26:19-60
+uses-feature#android.hardware.camera
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:28:5-60
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:28:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:29:5-70
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:29:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:31:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:32:5-75
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:32:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:33:5-80
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:33:22-77
+application
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:35:5-57:19
+MERGED from [org.tensorflow:tensorflow-android:1.5.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.5.0.aar/3315f0f51b92c9d4927fcbd39444f015/AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.5.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/tensorflow-android-1.5.0.aar/3315f0f51b92c9d4927fcbd39444f015/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:28:5-42:19
+MERGED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:28:5-42:19
+	android:label
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:39:9-41
+	android:debuggable
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:37:9-34
+	android:icon
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:38:9-45
+	android:allowBackup
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:36:9-35
+	android:theme
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:40:9-45
+	android:usesCleartextTraffic
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:41:9-45
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:42:9-51:20
+	android:screenOrientation
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:44:13-65
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:43:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:49:27-74
+activity#org.tensorflow.demo.HelloArActivity
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:53:9-53
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:53:19-50
+meta-data#com.google.ar.core
+ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:55:9-81
+	android:value
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:55:54-78
+	android:name
+		ADDED from /home/nishant/Dev/test/venv/poets/android/tfmobile/AndroidManifest.xml:55:20-53
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:31:9-37:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:34:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:36:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:35:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:33:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:37:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:32:13-62
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:39:9-41:41
+	android:value
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:41:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.0.0] /home/nishant/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/06cfaecb4ccc96e3fe6dba6ebbc7fbbf/AndroidManifest.xml:40:13-62
